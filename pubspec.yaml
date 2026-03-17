@@ -4,11 +4,7 @@ publish_to: "none"
 version: 0.1.0+1
 
 environment:
-<<<<<<< HEAD
-  sdk: ">=3.1.3 <4.0.0"
-=======
   sdk: ">=3.10.0 <4.0.0"
->>>>>>> c5ce8a8f3685d503469cac73ed4187fb8f43014b
 
 dependencies:
   cloudinary_public: ^0.23.1
