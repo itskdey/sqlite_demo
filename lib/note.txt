@@ -1,0 +1,62 @@
+local database -> only one device
+    - file -> text only (String)
+    - shared preference (only one data each file)
+    - sqlite -> database file
+
+sqlite:
+    - need package or plugin (sqflite)
+    
+sqflite:
+    - find local : var path = getDatabasePath();
+    - create db file : "path/student.db"
+    - create tb : sql query
+    - crud operation
+    
+1 - backend -> api
+2 - backend as service -> code
+
+
+localize app
+dark mode, light mode
+
+"Homescreen" : "Homescreen"
+"Homescreen" : "ទំព័រដើម"
+
+
+row
+column
+stack
+container
+image
+text
+
+popup
+radio
+switch
+slider
+
+
+state management
+    - getx / provider / bloc
+    - dio / http
+    - firebase / supabase
+    
+    
+"https://dummyjson.com/products"
+
+
+login -> main (save pref "isLogin")
+login -> main (save pref string "nameCtrl")
+
+
+register:
+    name  : jonh
+    email : test@gmail.com
+    pass  : 1234567
+    
+    name  : jonh 2
+    email : test2@gmail.com
+    pass  : 1234567
+    
+login -> main (save pref "isLogin")
+login -> main (save user data into sqlite)
