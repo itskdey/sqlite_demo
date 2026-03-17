@@ -10,6 +10,7 @@ environment:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   sdk: ^3.10.0
 =======
   sdk: ">=3.1.3 <4.0.0"
@@ -17,7 +18,13 @@ environment:
 =======
   sdk: ">=3.1.3 <4.0.0"
 >>>>>>> fa14ed9 (create new screen reaksaa)
+<<<<<<< HEAD
 >>>>>>> f65bb20 (fix)
+=======
+=======
+  sdk: ">=3.10.0 <4.0.0"
+>>>>>>> d74d6c1 (create new screen lyly)
+>>>>>>> 8951b1f (fix)
 
 dependencies:
   cloudinary_public: ^0.23.1
