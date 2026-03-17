@@ -4,8 +4,20 @@ publish_to: "none"
 version: 0.1.0+1
 
 environment:
+<<<<<<< HEAD
   sdk: ">=3.10.0 <4.0.0"
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  sdk: ^3.10.0
+=======
+  sdk: ">=3.1.3 <4.0.0"
+>>>>>>> 58d6280 (sqlite demo project)
+=======
+  sdk: ">=3.1.3 <4.0.0"
+>>>>>>> fa14ed9 (create new screen reaksaa)
+>>>>>>> f65bb20 (fix)
 
 dependencies:
   cloudinary_public: ^0.23.1
