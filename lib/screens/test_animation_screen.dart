@@ -12,6 +12,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   void initState() {
+    super.initState();
     // TODO: implement initState
     Duration(milliseconds: 1000);
     // Future.delayed(
