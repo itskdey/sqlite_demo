@@ -5,6 +5,7 @@ version: 0.1.0+1
 
 environment:
 <<<<<<< HEAD
+<<<<<<< HEAD
   sdk: ">=3.10.0 <4.0.0"
 
 =======
@@ -25,6 +26,10 @@ environment:
   sdk: ">=3.10.0 <4.0.0"
 >>>>>>> d74d6c1 (create new screen lyly)
 >>>>>>> 8951b1f (fix)
+=======
+  sdk: ">=3.10.0 <4.0.0"
+
+>>>>>>> 1861ce3 (fix code)
 
 dependencies:
   cloudinary_public: ^0.23.1
